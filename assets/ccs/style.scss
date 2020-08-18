@@ -1,6 +1,9 @@
+---
+---
+
 $header-bg-color-secondary: #159957;
 $header-bg-color: #155799;
-
+@import "{{ site.theme }}";
 
 .btn {
   display: inline-block;
@@ -46,4 +49,3 @@ $header-bg-color: #155799;
   }
 }
 
-@import "{{ site.theme }}";
