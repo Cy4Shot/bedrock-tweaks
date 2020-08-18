@@ -1,3 +1,6 @@
-## Bedrock Tweaks is your #1 source for free resource and data packs for Minecraft Bedrock! Enjoy the downloads below.
+## Bedrock Tweaks
 
-<a href="https://www.google.com" class="btn">Download</a>
+Bedrock Tweaks is your #1 source for free resource and data packs for Minecraft Bedrock! Enjoy the downloads below.
+
+{% include mainpage.html %}
+
