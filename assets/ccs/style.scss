@@ -1,11 +1,8 @@
----
----
-
 $header-bg-color-secondary: #159957;
 $header-bg-color: #155799;
-@import "{{ site.theme }}";
 
-.custom_btn {
+
+.btn {
   display: inline-block;
   margin-bottom: 1rem;
   color: $header-bg-color-secondary;
@@ -48,3 +45,5 @@ $header-bg-color: #155799;
     }
   }
 }
+
+@import "{{ site.theme }}";
