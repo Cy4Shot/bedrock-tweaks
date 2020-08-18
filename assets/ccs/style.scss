@@ -6,14 +6,13 @@ $header-bg-color: #155799;
 @import "{{ site.theme }}";
 
 .btn {
-  color: $header-bg-color-secondary;
-  background-color: $header-bg-color-secondary;
-  border-color: $header-bg-color-secondary;
+  color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
+  border-color: rgba(0, 0, 0, 0.8);
 
   &:hover {
-    color: $header-bg-color;
-    background-color: $header-bg-color-secondary;
-    border-color: $header-bg-color-secondary;
+    color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.8);
+    border-color: rgba(0, 0, 0, 0.8);
   }
 }
-
