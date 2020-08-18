@@ -15,10 +15,10 @@
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: $header-bg-color
+    color: $header-bg-color;
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.2);
-    border-color: $header-bg-color
+    border-color: $header-bg-color;
   }
 
   + .btn {
