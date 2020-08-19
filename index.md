@@ -2,7 +2,6 @@
 
 Bedrock Tweaks is your #1 source for free resource packs and behavior packs for Minecraft Bedrock! Enjoy the downloads below.
 <link href="style.css" rel="stylesheet">
-
 <details close>
 <summary>Technical Packs</summary>
 <br>
@@ -11,4 +10,6 @@ Download Button:<br>
 <br><br>
 </details>
 
-<a href="{{ site.github.repository_url }}" class="custom_button">View on GitHub</a>
+<header class="page-header" role="banner">
+<a href="{{ site.github.repository_url }}" class="custom_button">View on GitHub</a>    
+</header>
