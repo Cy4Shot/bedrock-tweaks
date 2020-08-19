@@ -8,14 +8,16 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
 
 <!--- Start of page. -->
 <details close>
-  <summary>Technical Packs</summary>
-  <h3>Chunk Visualizer</h3>
+<details close>
+  <summary>Visual Packs</summary>
+  <h3>Chunk Visualizer (by Theta Sigma)</h3>
   
-  <p>The Chunk Visualizer resource packs adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below:</p>
+  <p>The Chunk Visualizer resource pack adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below:</p>
   <a class="github-button" href="https://codeload.github.com/Cy4Shot/bedrock-tweaks/zip/master" data-icon="octicon-download" data-size="large" aria-label="Download">Download</a>
   
-  <h3>Peepeepoopoo</h3>
+  <h3>Better Redstone (by Bedrock Tweaks)</h3>
   
-  <p>The Chunk Visualizer resource packs adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below:</p>
+  <p>The Better Redstone resource packs changes the look of redstone when it is placed on the ground. This makes redstone machines look much more clean and imrpoves the redstone experience! Download below:</p>
   <a class="github-button" href="https://codeload.github.com/Cy4Shot/bedrock-tweaks/zip/master" data-icon="octicon-download" data-size="large" aria-label="Download">Download</a>
+  <br>
 </details>
