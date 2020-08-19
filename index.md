@@ -11,4 +11,4 @@ Download Button:<br>
 <br><br>
 </details>
 
-<a href="{{ site.github.repository_url }}" class="custom_button">View on GitHub</a>
+<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
