@@ -8,7 +8,6 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
 
 <!--- Start of page. -->
 <details close>
-<details close>
   <summary>Visual Packs</summary>
   <h3>Chunk Visualizer (by Theta Sigma)</h3>
   
