@@ -1,4 +1,4 @@
-.btn {
+.custom_button {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
@@ -16,7 +16,7 @@
     border-color: rgba(255, 255, 255, 0.3);
   }
 
-  + .btn {
+  + .custom_button {
     margin-left: 1rem;
   }
 
@@ -35,7 +35,7 @@
     padding: 0.75rem;
     font-size: 0.9rem;
 
-    + .btn {
+    + .custom_button {
       margin-top: 1rem;
       margin-left: 0;
     }
