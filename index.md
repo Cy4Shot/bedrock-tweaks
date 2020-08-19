@@ -10,3 +10,5 @@ Download Button:<br>
 {% include mainpage.html %}
 <br><br>
 </details>
+
+<a href="{{ site.github.repository_url }}" class="custom_button">View on GitHub</a>
