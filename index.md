@@ -4,7 +4,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
 <link href="style.css" rel="stylesheet">
 
 <details close>
-<summary class="noselect">Technical Packs</summary>
+<summary>Technical Packs</summary>
 <br>
 Download Button:<br>
 {% include mainpage.html %}
