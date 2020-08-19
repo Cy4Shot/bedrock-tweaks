@@ -8,7 +8,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
 
 <!--- Start of page. -->
 <details close>
-  <summary><h2>Technical Packs</h2></summary>
+  <h2><summary>Technical Packs</summary></h2>
   <h3>Chunk Visualizer</h3>
   
   <p>The Chunk Visualizer resource packs adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below:</p>
