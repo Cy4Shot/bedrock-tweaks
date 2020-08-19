@@ -10,7 +10,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
 <summary>Technical Packs</summary>
 <br>
 Download Button:<br>
-<a class="github-button" href="https://www.google.com" data-icon="octicon-download" data-size="large" aria-label="Download">Download</a>
+<a class="github-button" href="https://www.google.com/" data-icon="octicon-download" data-size="large" aria-label="Download">Download</a>
 {% include mainpage.html %}
 <br><br>
 </details>
