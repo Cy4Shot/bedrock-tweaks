@@ -1,6 +1,4 @@
-<script async defer src="https://buttons.github.io/buttons.js" >
-
-</script>
+<script async defer src="buttons.js"></script>
 ## Bedrock Tweaks
 
 Bedrock Tweaks is your #1 source for free resource packs and behavior packs for Minecraft Bedrock! Enjoy the downloads below.
