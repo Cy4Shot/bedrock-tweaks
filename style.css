@@ -6,7 +6,7 @@
   border-color: rgba(21, 153, 87, 0.2);
   border-style: solid;
   border-width: 1px;
-  border-radius: 0.3rem;
+  border-radius: 3rem;
 
   &:hover {
     color: rgba(21, 153, 87, 0.8);
