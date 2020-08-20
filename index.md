@@ -19,6 +19,6 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
   <h3>Better Redstone (by Bedrock Tweaks)</h3>
   
   <p>The Better Redstone resource packs changes the look of redstone when it is placed on the ground. This makes redstone machines look much more clean and imrpoves the redstone experience! Download below:</p>
-  <a class="github-button" href="https://raw.githubusercontent.com/Cy4Shot/bedrock-tweaks/master/packs/Bedrock_Tweaks_Better_Redstone.mcpack" data-icon="octicon-download" data-size="large" aria-label="Download" download>Download</a>
+  <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Better_Redstone.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download" download>Download</a>
   <br>
 </details>
