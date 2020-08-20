@@ -20,7 +20,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
   
   <p>The Better Redstone resource pack changes the look of redstone when it is placed on the ground. This makes redstone machines look much more clean and improves the redstone experience! Download below:</p>
   <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Better_Redstone.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download" download>Download Better Redstone</a>
-  <br>
+  <br><br>
 </details>
 <details close>
   <summary>Quality of Life Packs</summary>
@@ -34,7 +34,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
   
   <p>The Invisible Particles resource packs disables some potion particles so that they don't obstruct your vision during combat or gameplay! Download below:</p>
   <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Invisible_Particles.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download" download>Download Invisible Particles</a>
-  <br>
+  <br><br>
 </details>
 <details close>
   <summary>Hider Packs</summary>
@@ -55,5 +55,5 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
   <p>The No Featured Servers resource pack removes the featured servers from  the game! Download below:</p>
   <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_No_Featured_Servers.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download Cy4Shot/bedrock-tweaks on GitHub">Download No Featured Servers</a>
-  <br>
+  <br><br>
 </details>
