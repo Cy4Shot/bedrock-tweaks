@@ -14,7 +14,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
   
   <p>The Chunk Visualizer resource pack adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below:</p>
   <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/archive/master.zip" data-icon="octicon-download" aria-label="Download Cy4Shot/bedrock-tweaks on GitHub">Download</a>
+<a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Chunk_Visualizer.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download Cy4Shot/bedrock-tweaks on GitHub">Download</a>
   
   <h3>Better Redstone (by Bedrock Tweaks)</h3>
   
