@@ -4,7 +4,7 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
 
 <!--- Import JS and CSS -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"/>
+<!--- link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"/ -->
 <link rel="stylesheet" href="./styles.css" type="text/css"/>
 
 <!--- Start of page. -->
