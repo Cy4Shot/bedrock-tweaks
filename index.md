@@ -12,13 +12,24 @@ Bedrock Tweaks is your #1 source for free resource packs and behavior packs for 
   <summary>Visual Packs</summary>
   <h3>Chunk Visualizer (by Theta Sigma)</h3>
   
-  <p>The Chunk Visualizer resource pack adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below:</p>
+  <p>The Chunk Visualizer resource pack adds a shader that shows the chunks in the world by sperating them with a small white line. This is perfect for building farms, as a lot of bedrock farms depend on their position inside a chunk! Download below (May not work with other shaderpacks.):</p>
   <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Chunk_Visualizer.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download Cy4Shot/bedrock-tweaks on GitHub">Download</a>
   
   <h3>Better Redstone (by Bedrock Tweaks)</h3>
   
-  <p>The Better Redstone resource packs changes the look of redstone when it is placed on the ground. This makes redstone machines look much more clean and imrpoves the redstone experience! Download below:</p>
+  <p>The Better Redstone resource pack changes the look of redstone when it is placed on the ground. This makes redstone machines look much more clean and improves the redstone experience! Download below:</p>
   <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Better_Redstone.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download" download>Download</a>
+  
+  <h3>Night Vision (by LinusDev)</h3>
+  
+  <p>The Night Vision resource pack makes it easy too see in the dark in your minecraft world!! Download below (May not work with other shaderpacks.):</p>
+  <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Night Vision.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download Cy4Shot/bedrock-tweaks on GitHub">Download</a>
+  
+  <h3>Invisible Particles (by Sinn)</h3>
+  
+  <p>The Invisible Particles resource packs disables some potion particles so that they don't obstruct your vision during combat or gameplay! Download below:</p>
+  <a class="github-button" href="https://github.com/Cy4Shot/bedrock-tweaks/blob/master/packs/Bedrock_Tweaks_Invisible_Particles.mcpack?raw=true" data-icon="octicon-download" data-size="large" aria-label="Download" download>Download</a>
   <br>
 </details>
